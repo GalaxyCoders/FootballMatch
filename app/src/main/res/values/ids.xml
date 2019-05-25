@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="spinner" type="id" />
+    <item name="list_team" type="id" />
+    <item name="tanggal3" type="id" />
+    <item name="home_team3" type="id" />
+    <item name="home_score3" type="id" />
+    <item name="away_score3" type="id" />
+    <item name="away_team3" type="id" />
+    <item name="swipeRefreshFavoTeams" type="id" />
+    <item name="rvFavoTeams" type="id" />
+    <item name="pbFavoTeams" type="id" />
+</resources>

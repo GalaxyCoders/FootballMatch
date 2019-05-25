@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Football</string>
+    <string name="title_home">Home</string>
+    <string name="title_past_fragment">Last</string>
+    <string name="title_next_fragment">Next</string>
+    <string name="title_match_fragment">Matches</string>
+    <string name="title_team_fragment">Teams</string>
+    <array name="league">
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+    </array>
+    <array name="league_event">
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+    </array>
+</resources>
